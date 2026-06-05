@@ -1,0 +1,18 @@
+📄 RESUME SETUP INSTRUCTIONS
+
+The "Resume" button on your portfolio is now configured to download your resume.
+
+To make it work:
+1. Create or export your resume as a PDF file
+2. Name it: resume.pdf
+3. Place it in: public/resume.pdf
+
+That's it! When someone clicks the "Resume" button, it will automatically download your resume as "MarutiNandan-Resume.pdf"
+
+Steps:
+- Create your resume in Word/Google Docs/Canva
+- Export/Save as PDF
+- Save it as "resume.pdf" in the public folder of your project
+- The download will work immediately!
+
+Make sure the file is named exactly: resume.pdf (lowercase)
